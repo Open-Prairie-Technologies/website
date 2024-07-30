@@ -1,3 +1,37 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :root {
+    --color-green: #00dfb0;
+    --color-orange: #c58d70;
+    --color-purple: #692b66;
+  }
+
+  html {
+    font-size: 18px;
+    height: 100%;
+    box-sizing: border-box;
+  }
+  html,
+  * {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Ubuntu,
+        'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.5;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  * {
+    font-size: 1rem;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  a {
+    color: var(--color-purple);
+  }
+  a:hover {
+    color: var(--color-green);
+  }
+}
