@@ -6,7 +6,7 @@
 </script>
 
 <h1
-	class="relative col-span-4 col-start-2 mx-auto max-w-[550px] bg-gradient-to-b from-cyan-800 to-purple-700 bg-clip-text text-center font-mono text-4xl text-transparent before:absolute before:left-[] before:right-1 before:top-0 before:animate-glitch2 before:overflow-hidden before:text-cyan-800 before:content-[attr(data-text)] after:absolute after:left-1 after:top-0 after:animate-glitch after:overflow-hidden after:text-purple-700 after:content-[attr(data-text)] md:text-6xl lg:max-w-[1024px]"
+	class="relative col-span-4 col-start-2 mx-auto max-w-[550px] bg-gradient-to-b from-cyan-800 to-purple-700 bg-clip-text text-center font-mono text-4xl text-transparent before:absolute before:right-1 before:top-0 before:animate-glitch2 before:overflow-hidden before:text-cyan-800 before:content-[attr(data-text)] after:absolute after:left-1 after:top-0 after:animate-glitch after:overflow-hidden after:text-purple-700 after:content-[attr(data-text)] md:text-6xl lg:max-w-[1024px]"
 	data-text="Open Prairie Technologies"
 >
 	Open Prairie Technologies
