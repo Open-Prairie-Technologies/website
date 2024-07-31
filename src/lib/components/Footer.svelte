@@ -1,3 +1,3 @@
-<div class="bg-purple-800 fixed bottom-0 w-full text-center p-5">
-	Copyright 2024 Open Prairie Technologies LLC
+<div class="fixed bottom-0 w-full bg-purple-800 p-5 text-center">
+	©2024 Open Prairie Technologies LLC
 </div>
