@@ -11,7 +11,7 @@
 >
 	Open Prairie Technologies
 </h1>
-<p class="col-span-4 col-start-2 text-center font-mono text-2xl italic">
+<p class="col-span-4 col-start-2 text-center font-mono text-2xl italic text-cyan-900">
 	Providing Digital Products and Solutions
 </p>
 
