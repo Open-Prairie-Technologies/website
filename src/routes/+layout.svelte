@@ -5,7 +5,7 @@
 </script>
 
 <div
-	class="bg-gradient-to-b from-orange-400 to-purple-700 flex flex-col min-h-[100vh] text-slate-200"
+	class="flex min-h-[100vh] flex-col bg-gradient-to-b from-orange-400 to-purple-700 text-slate-200"
 >
 	<Header />
 	<div class="grow"><slot /></div>
