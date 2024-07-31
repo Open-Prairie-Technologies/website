@@ -7,6 +7,7 @@
 </ul>
 
 <style>
+	/* TailwindCSS doesn't yet support hover on :after + :after:content  */
 	a {
 		display: inline-block;
 		transition: 250ms;
