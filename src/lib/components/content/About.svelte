@@ -4,7 +4,12 @@
 	import Dylan from '$lib/components/team/Dylan.svelte';
 </script>
 
-<h2 class="text-2xl" id="about">About Us</h2>
+<a
+	href="#about"
+	class="before:absolute before:ml-[-20px] before:inline-block before:text-2xl before:content-[''] hover:before:content-['#']"
+>
+	<h2 class="text-2xl">About Us</h2>
+</a>
 <p>
 	At Open Prairie Technologies (OPT), we pride ourselves on developing highly customized solutions
 	to suit the needs of our clients. We're a group of developers eager for a challenge. And with over
@@ -12,7 +17,7 @@
 	challenge thrown at us.
 </p>
 
-<div class="grid grid-cols-1 md:grid-cols-3 gap-x-5 items-stretch">
+<div class="grid grid-cols-1 items-stretch gap-x-5 md:grid-cols-3">
 	<Jimmy />
 	<Jordon />
 	<Dylan />
