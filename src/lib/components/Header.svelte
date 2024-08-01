@@ -8,15 +8,10 @@
 <svelte:window bind:scrollY={y} />
 <!-- Must be first element -->
 
-<!-- Max-w on header + image must both be set -->
-<div
-	class="flex w-full items-stretch justify-between p-5 transition-all {y > 50
-		? 'max-h-24'
-		: 'max-h-52'}"
->
+<div class="flex w-full items-stretch justify-between p-5">
 	<img
 		src={logo}
-		class="h-auto transition-all duration-200 {y > 50 ? 'max-w-16' : 'max-w-36'}"
+		class="h-auto transition-all duration-200 {y > 50 ? 'max-w-14' : 'max-w-36'}"
 		alt="OPT Company Logo"
 	/>
 	<Nav />

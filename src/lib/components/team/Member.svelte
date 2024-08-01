@@ -5,10 +5,10 @@
 	export let name: string = '';
 </script>
 
-<div class="grid grid-rows-2 gap-4 justify-self-start py-2">
+<div class="flex flex-col gap-4 py-2">
 	<img
 		src={img}
-		class="h-52 w-52 justify-self-center rounded-full object-cover object-[center_top] py-2"
+		class="mx-auto h-52 w-52 rounded-full object-cover object-[center_top] py-2"
 		{alt}
 	/>
 	<span>
