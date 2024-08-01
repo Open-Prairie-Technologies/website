@@ -3,7 +3,7 @@
 	import logo from '$lib/images/logo.png';
 </script>
 
-<div class="flex justify-between items-stretch max-h-52 px-3 py-5">
-	<img src={logo} alt="OPT Company Logo" />
+<div class="flex max-h-52 items-stretch justify-between p-5">
+	<img src={logo} class="h-auto max-w-36" alt="OPT Company Logo" />
 	<Nav />
 </div>
