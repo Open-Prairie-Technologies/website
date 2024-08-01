@@ -6,6 +6,9 @@
 </script>
 
 <svelte:window bind:scrollY={y} />
+<!-- Must be first element -->
+
+<!-- Max-w on header + image must both be set -->
 <div
 	class="flex w-full items-stretch justify-between p-5 transition-all {y > 50
 		? 'max-h-24'
