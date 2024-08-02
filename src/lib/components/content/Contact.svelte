@@ -10,7 +10,7 @@
 		your organizations needs. Send us a message aboout what you're looking for and we'll get back to
 		you ASAP!
 	</p>
-	<form class="flex flex-col">
+	<form class="flex flex-col" method="POST">
 		<label class="px-3 py-2" for="name">Name</label>
 		<input class="text-slate-800" required type="text" id="name" name="name" />
 		<label class="px-3 py-2" for="email">Email</label>
