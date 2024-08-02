@@ -6,8 +6,14 @@
 	export let blurb: string = '';
 </script>
 
-<div class="grid grid-cols-2 gap-8">
-	<img src={image} {alt} class="border-2 border-slate-300 drop-shadow-xl" />
+<div class="flex flex-col-reverse gap-8 md:flex-row">
+	<span class="max-w-lg text-center"
+		><img
+			src={image}
+			{alt}
+			class="mx-auto inline h-auto w-auto min-w-80 border-2 border-slate-300 drop-shadow-xl"
+		/></span
+	>
 	<div class="flex flex-col">
 		{#if link.length}
 			<a href={link} class="block" target="_blank">
