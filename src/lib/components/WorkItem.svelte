@@ -7,15 +7,15 @@
 </script>
 
 <div class="grid grid-cols-2 gap-8">
-	<img src={image} {alt} />
+	<img src={image} {alt} class="border-2 border-slate-300 drop-shadow-xl" />
 	<div class="flex flex-col">
 		{#if link.length}
-			<a href={link} target="_blank">
+			<a href={link} class="block" target="_blank">
 				<h4 class="text-xl">{title}</h4>
 			</a>
 		{:else}
 			<h4 class="text-xl">{title}</h4>
 		{/if}
-		<p>{blurb}</p>
+		<p>{@html blurb}</p>
 	</div>
 </div>
