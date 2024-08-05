@@ -26,7 +26,7 @@
 		<input type="email" required class="text-slate-800" id="email" name="email" />
 		<label class="px-3 py-2" for="message">Message</label>
 		<textarea id="message" required class="resize-none text-slate-800" rows="4" name="message" />
-		<div data-netlify-recaptcha="true"></div>
+		<div data-netlify-recaptcha="true" class="mx-auto my-2"></div>
 		<button
 			type="submit"
 			data-text="Submit"
