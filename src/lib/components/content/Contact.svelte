@@ -10,14 +10,7 @@
 		your organizations needs. Send us a message aboout what you're looking for and we'll get back to
 		you ASAP!
 	</p>
-	<form
-		class="flex flex-col"
-		method="POST"
-		data-netlify="true"
-		name="OPT-Contact-Form"
-		data-netlify-recaptcha="true"
-	>
-		<input name="bait" />
+	<form class="flex flex-col" method="POST" data-netlify="true" name="OPT-Contact-Form">
 		<input type="hidden" name="form-name" value="OPT-Contact-Form" />
 		<input type="hidden" name="subject" value="OPT Contact Form Submission" />
 		<label class="px-3 py-2" for="name">Name</label>
