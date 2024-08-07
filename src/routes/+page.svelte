@@ -15,12 +15,12 @@
 	Providing Digital Products and Solutions
 </p>
 
-<Section id="work" classes="w-full relative p-10 lg:p-20 ">
+<Section id="work" classes="w-full relative p-5 md:p-10 lg:p-20 ">
 	<Work />
 </Section>
-<Section id="about" classes="w-full relative p-10 lg:p-20 ">
+<Section id="about" classes="w-full relative p-5 md:p-10 lg:p-20 ">
 	<About />
 </Section>
-<Section id="contact" classes="w-full relative p-10 lg:p-20">
+<Section id="contact" classes="w-full relative p-5 md:p-10 lg:p-20">
 	<Contact />
 </Section>
