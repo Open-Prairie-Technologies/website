@@ -11,7 +11,7 @@
 		><img
 			src={image}
 			{alt}
-			class="mx-auto inline h-auto w-auto border-2 border-slate-300 drop-shadow-xl"
+			class="mx-auto inline h-auto w-auto border-2 border-slate-300 drop-shadow-xl md:min-w-80"
 		/></span
 	>
 	<div class="flex flex-col">
