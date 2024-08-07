@@ -24,9 +24,7 @@
 		name="Jimmy Hogoboom"
 		alt="Jimmy Hogoboom smiles at the camera. He has short hair, glasses, facial hair."
 		bio="
-			A software developer with over a decade of experience collaborating with clients,
-			stakeholders, and domain experts to design, build, deploy, and maintain secure web
-			applications with a variety of languages and frameworks.
+A software engineer with over a decade of experience building, deploying, and maintaining secure and robust applications on the web and elsewhere. The practical knowledge he has gathered through experience is amplified by a personal interest in techniques for building correct software, like test-driven development and the wonders of functional programming.
 		"
 	/>
 	<Member
@@ -45,8 +43,7 @@
 		name="Dylan Hildenbrand"
 		alt="Dylan Hildenbrand stands with his arms crossed. He wears a dark, long sleeve shirt, wears glasses, and has tossled hair."
 		bio="
-			Dylan Hildenbrand is a freelance full-stack web developer with a penchant for understanding
-			how things work. Over the past decade, that desire to know “how things work” has led Dylan to
+			A freelance full-stack web developer with a penchant for understanding how things work. Over the past decade, that desire to know “how things work” has led Dylan to
 			a robust skillset ranging from front and back-end development to database administration,
 			Linux server administration, and automation of application deployments and testing procedures.
 		"
