@@ -31,19 +31,14 @@ A software engineer with over a decade of experience building, deploying, and ma
 		img={jordon}
 		name="Jordon Lakoduk"
 		alt="Jordon Lakoduk smiles at the camera. He is wearing a short brimmed cap and has a beard."
-		bio="
-			A qui totam quia error ipsam ea inventore. Sed beatae consequatur officiis facilis ex animi
-			id. Excepturi magni atque rerum magnam. Aut iste inventore inventore autem autem voluptatibus
-			odit. Praesentium est eveniet eius nulla facere nam voluptatum possimus. Vel exercitationem et
-			atque corporis quo.
-		"
+		bio="Taking on unique challenging IT problems is the norm for this peculiar  fellow. He started out in 2004 developing web applications utilizing the full open source LAMP (Linux, Apache, MySQL, and PHP) and he's spent the last fifteen years doing IT consulting and system administration. He likes putting together systems that aren't designed to talk, or so the vendor says...just another average day. Outside of all things tech he is an avid traveler, very amateur tennis player, and still occasionally rides a skateboard to “stay young”."
 	/>
 	<Member
 		img={dylan}
 		name="Dylan Hildenbrand"
 		alt="Dylan Hildenbrand stands with his arms crossed. He wears a dark, long sleeve shirt, wears glasses, and has tossled hair."
 		bio="
-			A freelance full-stack web developer with a penchant for understanding how things work. Over the past decade, that desire to know “how things work” has led Dylan to
+			Dylan is a freelance full-stack web developer with a penchant for understanding how things work. Over the past decade, that desire to know “how things work” has led Dylan to
 			a robust skillset ranging from front and back-end development to database administration,
 			Linux server administration, and automation of application deployments and testing procedures.
 		"
