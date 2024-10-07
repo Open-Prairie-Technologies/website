@@ -11,12 +11,13 @@
 	<h2 class="text-2xl">Our Work</h2>
 </a>
 <p>
-	We don't know who you are. We don't know what you want. If you are looking for crude work, we can
-	tell you we don't have apathy, but what we do have are a very particular set of skills. Skills we
-	have acquired over long careers. Skills that make us a dream(team) for people like you. If you
-	leave this website now that'll be the end of it. We will not look for you, we will not pursue you,
-	but if you don't, you will want to fill out our <a href="#contact">contact form</a>, we will get
-	in touch, and we will help you.
+	While we specialize in creating web apps, we go beyond simply "creating apps". With over 45 years
+	of combined experience, we’ve seen it all (okay, maybe not all but a lot). We’ve worked in nearly
+	every imaginable sub-field of Information Technology (IT) including as system administrators, web
+	developers, software engineers, and even PC repair technicians. And that doesn’t even include the
+	various technology related hobbies we’ve picked up over the years. With a unified passion for
+	using technology to solve problems, our team is determined to use the right tool for the right
+	job. When it comes to programming or coding, there’s hardly a language we haven’t used.
 </p>
 <div class="my-5 flex flex-col gap-8">
 	<WorkItem
