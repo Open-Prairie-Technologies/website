@@ -15,9 +15,10 @@
 	of combined experience, we’ve seen it all (okay, maybe not all but a lot). We’ve worked in nearly
 	every imaginable sub-field of Information Technology (IT) including as system administrators, web
 	developers, software engineers, and even PC repair technicians. And that doesn’t even include the
-	various technology related hobbies we’ve picked up over the years. With a unified passion for
-	using technology to solve problems, our team is determined to use the right tool for the right
-	job. When it comes to programming or coding, there’s hardly a language we haven’t used.
+	various technology related hobbies we’ve picked up over the years. When it comes to programming or
+	coding, there’s hardly a language we haven’t used. With a unified passion for using technology to
+	solve problems, our team is determined to use the right tool for the right job. For no nonsense,
+	practical solutions, fill out our <a href="#contact">contact form</a> and we'll be in touch.
 </p>
 <div class="my-5 flex flex-col gap-8">
 	<WorkItem
