@@ -10,11 +10,15 @@
 >
 	<h2 class="text-2xl">Our Work</h2>
 </a>
+<p class="bold my-2 text-lg">
+	Open Prairie Technologies provides technology solutions that empower our clients. We specialize in
+	creating web applications that exceed expectations. From crafting elegant user interfaces (UIs) to
+	designing robust APIs, our team has experience delivering results.
+</p>
 <p>
-	While we specialize in creating web apps, we go beyond simply "creating apps". With over 45 years
-	of combined experience, we’ve seen it all (okay, maybe not all but a lot). We’ve worked in nearly
-	every imaginable sub-field of Information Technology (IT) including as system administrators, web
-	developers, software engineers, and even PC repair technicians. And that doesn’t even include the
+	While we specialize in creating web apps, we go beyond simply "creating apps". We’ve worked in
+	nearly every imaginable field of Information Technology (IT) including as system administrators,
+	web developers, software engineers, and even PC repair technicians. And that doesn’t include the
 	various technology related hobbies we’ve picked up over the years. When it comes to programming or
 	coding, there’s hardly a language we haven’t used. With a unified passion for using technology to
 	solve problems, our team is determined to use the right tool for the right job. For no-nonsense,

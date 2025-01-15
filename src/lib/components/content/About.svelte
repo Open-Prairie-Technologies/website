@@ -12,17 +12,17 @@
 	<h2 class="text-2xl">About Us</h2>
 </a>
 <p>
-	At Open Prairie Technologies (OPT), we pride ourselves on developing highly customized solutions
-	to suit the needs of our clients. We're a group of developers eager for a challenge. And with over
-	45 years of combined experience, we've acquired the skills to tackle almost any technical
-	challenge thrown at us.
+	At Open Prairie Technologies (OPT), we pride ourselves on developing finely tailored solutions to
+	suit the needs of our clients. We're a group of developers eager for a challenge. And with our
+	wide ranging experience, we've acquired the skills to tackle nearly any technical challenge that
+	comes our way. As a worker owned software agency, we're invested in the success of our clients.
 </p>
 
 <div class="grid grid-cols-1 items-stretch gap-x-5 md:grid-cols-3">
 	<Member
 		img={jimmy}
 		name="Jimmy Hogoboom"
-		alt="Jimmy Hogoboom smiles at the camera. He has short hair, glasses, facial hair."
+		alt="Jimmy Hogoboom smiles at the camera. He has short dark hair, glasses, facial hair."
 		bio="
 A software engineer with over a decade of experience building, deploying, and maintaining secure and robust applications on the web and elsewhere. The practical knowledge he has gathered through experience is amplified by a personal interest in techniques for building correct software, like test-driven development and the wonders of functional programming.
 		"

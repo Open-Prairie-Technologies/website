@@ -12,7 +12,7 @@
 	Open Prairie Technologies
 </h1>
 <p class="col-span-4 col-start-2 text-center font-mono text-2xl italic text-cyan-900">
-	Providing Digital Products and Solutions
+	Cooperatively Owned & Operated Software Agency
 </p>
 
 <Section id="work" classes="w-full relative p-5 md:p-10 lg:p-20 ">
